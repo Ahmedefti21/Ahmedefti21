@@ -138,7 +138,13 @@ I enjoy building projects that are useful, readable, and practical: from AI-powe
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedefti21&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+### Contribution Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedefti21/Ahmedefti21/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedefti21/Ahmedefti21/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Ahmedefti21/Ahmedefti21/output/galaga-contribution-graph.svg">
+</picture>
 
 </div>
 
